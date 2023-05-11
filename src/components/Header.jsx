@@ -20,11 +20,10 @@ const Header = () => {
       </div>
 
       {/* Mobile */}
-      
+
       <div className="flex md:hidden w-full h-full"></div>
     </Header>
   )
 }
 
 export default Header;
-
