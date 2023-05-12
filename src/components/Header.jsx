@@ -4,6 +4,7 @@ import Logo from './img/logo.png'
 const Header = () => {
   return (
     <Header className="fixed z-50 w-screen p-6 px-16">
+      
       {/* Desktop and Tablet*/}
 
       <div className="hidden md:flex w-full h-full">
