@@ -18,7 +18,6 @@ const Header = () => {
          </ul>
       </div>
 
-      {/* Mobile */}
       <div className="flex md:hidden w-full h-full"></div>
     </Header>
   )
