@@ -5,7 +5,6 @@ const Header = () => {
   return (
     <Header className="fixed z-50 w-screen p-6 px-16">
       
-      {/* Desktop and Tablet*/}
       <div className="hidden md:flex w-full h-full">
          <div className="flex items-center gap-2">
            <img src={Logo} className="w-8 object-cover" alt="logo"/>
