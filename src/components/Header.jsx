@@ -17,7 +17,7 @@ const Header = () => {
          </ul>
       </div>
 
-      <div className="flex text-center md:hidden w-full h-full"></div>
+      <div className="flex md:hidden w-full h-full"></div>
     </Header>
   )
 }
