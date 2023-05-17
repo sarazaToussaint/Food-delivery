@@ -9,7 +9,6 @@ const Header = () => {
          <div className="flex items-center gap-2">
            <img src={Logo} className="w-8 object-cover" alt="logo"/>
          </div>
-
          <ul>
            <li>Home</li>
            <li>Menu</li>
