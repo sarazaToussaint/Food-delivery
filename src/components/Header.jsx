@@ -11,7 +11,11 @@ const Header = () => (
         <p className="text-headingColor text-xl font-bold"> City</p>
       </div>
       <ul className="flex ite items-center gap-8 ml-auto">
-        <li className="text-base text-textColor hover:text-headingColor cursor-pointer duration-100 transition-all ease-in-out">Home</li>
+        <li className="text-base text-textColor hover:text-headingColor
+        cursor-pointer duration-100 transition-all ease-in-out"
+        >
+          Home
+        </li>
         <li className="text-base text-textColor hover:text-headingColor cursor-pointer duration-100 transition-all ease-in-out">Menu</li>
         <li className="text-base text-textColor hover:text-headingColor cursor-pointer duration-100 transition-all ease-in-out">About Us</li>
         <li className="text-base text-textColor hover:text-headingColor cursor-pointer duration-100 transition-all ease-in-out">Services</li>
