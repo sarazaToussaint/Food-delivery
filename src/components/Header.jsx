@@ -17,8 +17,19 @@ const Header = () => (
         >
           Home
         </li>
-        <li className="text-base text-textColor hover:text-headingColor cursor-pointer duration-100 transition-all ease-in-out">Menu</li>
-        <li className="text-base text-textColor hover:text-headingColor cursor-pointer duration-100 transition-all ease-in-out">About Us</li>
+        <li
+          className="text-base text-textColor hover:text-headingColor
+        cursor-pointer duration-100 transition-all ease-in-out"
+        >
+          Menu
+        </li>
+        <li
+          className="text-base text-textColor hover:text-headingColor
+         cursor-pointer duration-100 transition-all ease-in-out"
+        >
+          About Us
+
+        </li>
         <li className="text-base text-textColor hover:text-headingColor cursor-pointer duration-100 transition-all ease-in-out">Services</li>
       </ul>
 
