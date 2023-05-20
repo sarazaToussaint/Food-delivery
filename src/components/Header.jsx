@@ -28,9 +28,13 @@ const Header = () => (
          cursor-pointer duration-100 transition-all ease-in-out"
         >
           About Us
-
         </li>
-        <li className="text-base text-textColor hover:text-headingColor cursor-pointer duration-100 transition-all ease-in-out">Services</li>
+        <li
+          className="text-base text-textColor hover:text-headingColor
+         cursor-pointer duration-100 transition-all ease-in-out"
+        >
+          Services
+        </li>
       </ul>
 
       <div className="relative flex items-center justify-center">
