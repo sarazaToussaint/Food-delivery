@@ -41,7 +41,7 @@ const Header = () => (
         <div className="absolute -top-2 -right-2 w-5 h-5 rounded-full bg-red-500
         flex items-center justify-center"
         >
-          <p className="text-xs text-white font-semibold">3</p>
+          <p className="text-xs text-white font-semibold">2</p>
         </div>
       </div>
     </div>
