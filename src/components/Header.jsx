@@ -38,7 +38,7 @@ const Header = () => (
 
       <div className="relative flex items-center justify-center">
         <MdShoppingBasket className="text-textColor text-2xl ml-8 cursor-pointer" />
-        <div className="absolute top-2 right-2 w-5 h-5 rounded-full bg-red-500
+        <div className="absolute -top-2 -right-2 w-5 h-5 rounded-full bg-red-500
         flex items-center justify-center"
         >
           <p className="text-xs text-white font-semibold">3</p>
