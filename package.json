@@ -9,6 +9,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
+    "framer-motion": "^10.12.9",
+    "firebase": "^9.21.0",
     "react-router-dom": "^6.11.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
@@ -49,8 +51,6 @@
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "firebase": "^9.21.0",
-    "framer-motion": "^10.12.9",
     "postcss": "^8.4.23",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
