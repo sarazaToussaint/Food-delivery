@@ -1,7 +1,7 @@
 import React from 'react';
 
 const CreateContainer = () => (
-  <div>CreateContainer</div>
+  <div>Add New Item</div>
 );
 
 export default CreateContainer;
